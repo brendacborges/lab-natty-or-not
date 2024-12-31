@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA no Ambiente Bancário
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um vídeo com a utilização de IA generativa com o tema IA no ambiente bancário
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+D-ID Studio
+Clideo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a criação do texto, foi utilizado o ChatGPT com o seguinte prompt: "Criar uma apresentação para um vídeo de um minuto com o tema a utilização das IA no ambiente bancário" - https://chatgpt.com/share/67728fc7-b558-8004-b7f2-9864a5383294.
+Na sequência, o texto gerado foi copiado no D-ID Studio, escolhido um avatar que tivesse uma aparência jovem e moderna, escolhida a cor azul (que remete às cores da Caixa) e uma voz que fosse o mais natural possível.
+Para finalizar, foi utilizado o Clideo para comprimir o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi criado um vídeo de 53 segundos, com a naturalidade que o D-ID possibilita, com um áudio e uma imagem satisfatórias, próximas à natural.
+
+https://github.com/user-attachments/assets/553c8c0e-77cf-4695-ac98-ea38f962f0b0
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Com as tecnologias gratuitas disponíveis, não é possível criar algo totalmente natty. Porém, a semelhança é bem grande, o que poderia gerar dúvidas para um leigo. O processo de criação com a utilização de IA generativa é bem fácil e torna o processo bem mais rápido e eficiente.
